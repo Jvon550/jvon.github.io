@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    font-family: Roboto Slab;
+  }
+
+button {
+    padding: 10px;
+    background-color: #006BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+h1 {
+    font-family: Roboto Slab;
+}
+
+.my-name  {
+    color: #006BFF;
+}
+
+.social-media {
+    height: 36px;
+}
+
+.social-media > img {
+    height: 100%;
+}
+
+.card {
+    
+}
